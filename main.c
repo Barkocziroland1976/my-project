@@ -4,4 +4,6 @@ void main(void){
 	console.write("again");
 	
 	console.write("whatever");
+	
+	console.write("4th row");
 }
